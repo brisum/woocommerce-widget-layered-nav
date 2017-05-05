@@ -1,0 +1,1 @@
+# woocommerce-widget-layered-nav

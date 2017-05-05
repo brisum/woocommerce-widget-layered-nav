@@ -1,0 +1,22 @@
+{
+  "name": "brisum/woocommerce-widget-layered-nav",
+  "description": "Woocommerce Widget LayeredNav",
+  "keywords": [
+    "woocommerce",
+    "widget"
+  ],
+  "homepage": "https://github.com/brisum/woocommerce-widget-layered-nav",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Manchenko",
+      "email": "omanchenko@brisum.com",
+      "homepage": "http://brisum.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Brisum\\Wordpress\\Woocommerce\\Widget\\LayeredNav\\": "src/"
+    }
+  }
+}
